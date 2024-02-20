@@ -1,4 +1,4 @@
-# 👋 Hi, I'm LuisiTxrror
+# 👋 Hi, I'm Luis-Txrrorzin
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore the world of technology.
 
