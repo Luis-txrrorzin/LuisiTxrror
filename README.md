@@ -14,10 +14,11 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore th
 
 I'm constantly learning and expanding my skill set. Here are some of the technologies and topics I'm currently diving into:
 
-- JavaScript and its frameworks (React, Vue, etc.)
-- Python and Data Science
-- Cloud Computing (AWS, GCP)
-- Containerization (Docker, Kubernetes)
+- PHP
+- JavaScript
+- React and NodeJs
+- Sql
+- Bootstrap
 
 Feel free to reach out to me if you'd like to discuss any of these topics or if you have any suggestions for my learning journey.
 
