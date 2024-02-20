@@ -31,7 +31,7 @@ I'm always open to collaborating on exciting projects. Whether it's open source 
 You can reach me through the following channels:
 
 - Email: Luisseverodasilva17@gmail.com
-- LinkedIn: [LuisiTxrror](https://www.linkedin.com/in/luis-silva-133176225/)
+- LinkedIn: [Luis Henrique Severo da Silva](https://www.linkedin.com/in/luis-silva-133176225/)
 - Twitter: [@LuisiTxrror](https://twitter.com/LuisSerwazi_Dev)
 
 Feel free to connect with me, and let's start some exciting discussions and collaborations!
